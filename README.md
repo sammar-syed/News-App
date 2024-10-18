@@ -1,4 +1,4 @@
-# News-App 📰
+# News-App-Project 📰
 
 ### Overview :
 Kotlin-based Android news app helps users stay up-to-date on the latest headlines.
