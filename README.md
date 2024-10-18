@@ -54,10 +54,3 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
    - See [CONTRIBUTING.md](https://github.com/Raj-m01/News-App/blob/master/CONTRIBUTING.md) for ways to get started.
 
-
-
-### 📝 License 
-
-Copyright (c) 2022 Raj Manjrekar
-
-This project is [MIT](https://github.com/Raj-m01/News-App/blob/master/License) licensed.
